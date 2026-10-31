@@ -1,0 +1,16 @@
+# SuperStore Sales & Delivery Analytics - Python dependencies
+# Environment : Google Colab (Python 3) - these libraries are pre-installed there.
+# Local setup : pip install -r requirements.txt
+
+# Data cleaning & manipulation
+pandas>=2.0
+
+# Visualization (used in the EDA notebook)
+matplotlib>=3.7
+seaborn>=0.13
+
+# Optional: only needed to run the notebook locally instead of Google Colab
+# notebook>=7.0
+
+# Not installable via pip (used outside Python):
+# - Tableau Desktop / Tableau Public : dashboard building and publishing
